@@ -1,0 +1,14 @@
+:root {
+  --azul-celeste: #A3D2CA;
+  --verde-pastel: #BFD8B8;
+  --beige-claro: #F6EFD4;
+  --gris-azulado: #CEDDE0;
+  --texto-principal: #444B54;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--beige-claro);
+  color: var(--texto-principal);
+}
